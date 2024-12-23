@@ -30,10 +30,6 @@ Here's the latest products page!
 
 ![image](https://github.com/codewithpapakwame/red-store/blob/38e706a3050ce6d4cdaddef3354d49be51da4837/screenshot4.jpg)
 
-# Whole Products
-![image](https://github.com/codewithpapakwame/red-store/blob/38e706a3050ce6d4cdaddef3354d49be51da4837/screenshot3.jpg)
-![image](https://github.com/codewithpapakwame/red-store/blob/38e706a3050ce6d4cdaddef3354d49be51da4837/screenshot4.jpg)
-
 #  Banner
 Here's the banner page!
 
@@ -69,34 +65,8 @@ GitHub is a web-based interface that uses Git, the open source version control s
 
 # Videos Part 1 to 5
 Part 1 = https://www.youtube.com/watch?v=yQimoqo0-7g&list=PLjwm_8O3suyM_2Lo9aAIw3HqjOPor8j9g
-
-
-
-
 Part 2 = https://www.youtube.com/watch?v=ZbnvP_hmxfE&list=PLjwm_8O3suyM_2Lo9aAIw3HqjOPor8j9g&index=3
-
-
-
-
 Part 3 = https://www.youtube.com/watch?v=ENyk_W-Eleo&list=PLjwm_8O3suyM_2Lo9aAIw3HqjOPor8j9g&index=3
-
-
-
-
 Part 4 = https://www.youtube.com/watch?v=oXrlgOEiy6o&list=PLjwm_8O3suyM_2Lo9aAIw3HqjOPor8j9g&index=4
-
-
-
-
 Part 5 = https://www.youtube.com/watch?v=vOXGuNVRGpA&list=PLjwm_8O3suyM_2Lo9aAIw3HqjOPor8j9g&index=5
-
-### News
-Full news at [ko-fi.com](https://ko-fi.com/papakwame)
-
-Honey website coming soon
-
-Part 1: <img width="367" alt="Screen Shot 2024-12-22 at 7 13 50 PM" src="https://github.com/user-attachments/assets/7712d8c2-4a72-4fae-ba64-6aeb33ce17d5" />
-Part 2: <img width="172" alt="Screen Shot 2024-12-22 at 7 14 02 PM" src="https://github.com/user-attachments/assets/4b82bfb3-b450-4129-8011-6ae03d84d6cb" />
-
-
 ### Thank you ❤️❤️🫶🏻🫶🏻👋🏾
