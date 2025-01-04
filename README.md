@@ -58,7 +58,26 @@ Here's the cart page!
 GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time. As Carpenter notes, because it allows for real-time collaboration, GitHub encourages teams to work together to build and edit their site content.
 
 # Videos Part 1 to 5
+
+
+
+
+
+
+
+
+
+
 Part 1 = https://www.youtube.com/watch?v=yQimoqo0-7g&list=PLjwm_8O3suyM_2Lo9aAIw3HqjOPor8j9g
+
+
+
+
+
+
+
+
+
 
 
 
@@ -86,6 +105,16 @@ Part 2 = https://www.youtube.com/watch?v=ZbnvP_hmxfE&list=PLjwm_8O3suyM_2Lo9aAIw
 
 
 
+
+
+
+
+
+
+
+
+
+
 Part 3 = https://www.youtube.com/watch?v=ENyk_W-Eleo&list=PLjwm_8O3suyM_2Lo9aAIw3HqjOPor8j9g&index=3
 
 
@@ -95,7 +124,40 @@ Part 3 = https://www.youtube.com/watch?v=ENyk_W-Eleo&list=PLjwm_8O3suyM_2Lo9aAIw
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Part 4 = https://www.youtube.com/watch?v=oXrlgOEiy6o&list=PLjwm_8O3suyM_2Lo9aAIw3HqjOPor8j9g&index=4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
