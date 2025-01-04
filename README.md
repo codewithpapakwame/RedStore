@@ -2,6 +2,8 @@
 This is an e-commece website with HTML 5 and CSS 3
 also it's a responsive website!
 
+
+
 # Indroduction about E-commerce websites
 E-commerce is the buying and selling of goods and services over the Internet. It is conducted over computers, tablets, smartphones and other smart devices.
 Almost anything can be purchased through E-commerce today.
@@ -59,7 +61,7 @@ GitHub is a web-based interface that uses Git, the open source version control s
 
 # Videos Part 1 to 5
 
-
+Listen to one of the videos to make a change
 
 
 
