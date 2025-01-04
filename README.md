@@ -1,5 +1,5 @@
 # RedStore
-This is an e-commece website with HTML and CSS
+This is an e-commece website with HTML 5 and CSS 3
 also it's a responsive website!
 
 # Indroduction about E-commerce websites
