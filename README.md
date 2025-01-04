@@ -20,14 +20,8 @@ Here's the categories page!
 
 ![image](https://github.com/codewithpapakwame/red-store/blob/38e706a3050ce6d4cdaddef3354d49be51da4837/screenshot2.jpg)
 
-# Featured Products page
-Here's the featured products page!
-
+# All products
 ![image](https://github.com/codewithpapakwame/red-store/blob/38e706a3050ce6d4cdaddef3354d49be51da4837/screenshot3.jpg)
-
-# Latest Products page
-Here's the latest products page!
-
 ![image](https://github.com/codewithpapakwame/red-store/blob/38e706a3050ce6d4cdaddef3354d49be51da4837/screenshot4.jpg)
 
 #  Banner
@@ -113,6 +107,8 @@ Part 4 = https://www.youtube.com/watch?v=oXrlgOEiy6o&list=PLjwm_8O3suyM_2Lo9aAIw
 
 
 Part 5 = https://www.youtube.com/watch?v=vOXGuNVRGpA&list=PLjwm_8O3suyM_2Lo9aAIw3HqjOPor8j9g&index=5
+
+
 
 
 ### Thank you ❤️❤️🫶🏻🫶🏻👋🏾
