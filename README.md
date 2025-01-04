@@ -41,7 +41,7 @@ Here's the footer page!
 
 ![image](https://github.com/codewithpapakwame/red-store/blob/38e706a3050ce6d4cdaddef3354d49be51da4837/screenshot7.jpg)
 
-# Product Details
+# Product Details ¡!Important one!¡
 Here's the product details page!
 
 ![image](https://github.com/codewithpapakwame/red-store/blob/38e706a3050ce6d4cdaddef3354d49be51da4837/screenshot8.jpg)
