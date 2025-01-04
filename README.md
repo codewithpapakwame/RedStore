@@ -175,4 +175,4 @@ Part 5 = https://www.youtube.com/watch?v=vOXGuNVRGpA&list=PLjwm_8O3suyM_2Lo9aAIw
 
 
 
-### Thank you ❤️❤️🫶🏻🫶🏻👋🏾
+### Thank you ❤️❤️🫶🏻🫶🏻👋🏾 and have a great day
