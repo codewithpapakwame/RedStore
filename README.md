@@ -10,7 +10,7 @@ A website that allows people to buy and sell physical goods, services and digita
 Through an e-commerce website a business can process orders, accept payments, manage shipping & logistics and provide customer services.
 
 
-# Landing page
+# Landing page or Home
 Here's the landing page!
 
 ![image](https://github.com/codewithpapakwame/red-store/blob/d1e75715e0f6a6d1d1efbbb5f7d883c79b476224/screenshot1.jpg)
